@@ -46,6 +46,8 @@ public class Program {
 		System.out.println("Updated account data:");
 		System.out.println(account);
 		
+		System.out.println("FIM");
+		
 		
 		
 		sc.close();
